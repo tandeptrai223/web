@@ -1,0 +1,133 @@
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.adress {
+    display: inline-block;
+    margin-left: 50%;
+}
+.adress1{
+    display: inline-block;
+    margin-left: 5%;
+}
+.fa {
+    padding: 15px;
+    font-size: 10px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    height:15px;
+    border-radius: 50%;
+  }
+  .fa:hover {
+    color: orange;}
+.fa-facebook {
+        background: #3B5998;
+        color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .header{
+    background-color: #f6f9fa;
+  }
+.header--icon{
+    margin-left: 65px ;
+    display: block;
+}
+.header-right{
+    background-color: #ffffff
+    margin: auto;
+   
+  
+   
+}
+.Header-right--ul{
+    display: inline-flex;
+    margin-left: 40%;
+    margin-top: 40px
+
+   
+}
+.menu-item{
+    margin: 20px;
+}
+.menu{
+    display: inline-block;
+
+    margin-left: 40px;
+    font: fantasy;
+    font-size: 20px;
+    position: relative;
+    top: 50%;
+}
+.Image{
+    background-image: url("/form/order/FAVPNG_kitesurfing-wave-aile-de-kite_PEn7JdBb.png");    
+    background-color: #cccccc;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+.type-text{
+    text-align: center;
+    margin-top: 50px;
+    
+
+}
+h2{
+    text-align: center;
+}
+.text_{
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+h1{
+    color: black;
+    font-weight: 100;
+    font-size: 50px;
+    margin-bottom: 0;
+p{
+    text-transform: inherit;
+    font-size: 20px;
+    margin-top: 0;
+    
+}
+button{
+    text-transform: uppercase;
+}
+.checked {
+    color: orange;
+  }
+.mathang{
+   
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+.star{
+    display: inline-block;
+
+    width: 160px;
+    height: 50px;
+    border-color: blanchedalmond; 
+}
